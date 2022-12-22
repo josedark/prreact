@@ -9,7 +9,7 @@
     "chart.js": "^2.7.2",
     "classnames": "^2.2.6",
     "formik": "^1.5.7",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "numeral": "^2.0.6",
     "prop-types": "^15.6.2",
     "react": "^16.8.6",
